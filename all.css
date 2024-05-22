@@ -3,15 +3,25 @@ body {
     margin: 0 auto;
     background-color: pink;
 }
-* {
+/* * {
     outline: 1px solid #000;
-}
+} */
 
 h1 {
     color: red;
 }
 
+#fallout {
+    color: orange;
+}
+
+.fall {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
 footer {
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     text-align: center;
 }
